@@ -1,0 +1,7 @@
+{
+    "video": false,
+    "baseUrl": " ",
+    "viewportWidget": 1440,
+    "viewportHeight": 900,
+    "ignoreTestFile": "*.js"
+}

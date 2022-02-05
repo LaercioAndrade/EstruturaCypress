@@ -1,0 +1,14 @@
+{
+
+  "scripts": {
+
+  },
+  "cypress-cucumber-preprocessor":{
+    "step_definitions": "cypress/support/steps_definitions"
+  },
+
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
